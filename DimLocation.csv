@@ -1,0 +1,61 @@
+Manufacturing_Location,Country_of_Origin,Dealership_Location,DealershipLocationID
+Germany,Germany,Suburban,1
+USA,South Korea,Rural,2
+South Korea,Italy,Urban,3
+USA,Japan,Urban,4
+Japan,Japan,Rural,5
+USA,Germany,Urban,6
+USA,Italy,Urban,7
+Germany,Japan,Rural,8
+Japan,Germany,Urban,9
+Japan,Italy,Urban,10
+USA,Japan,Suburban,11
+Germany,Italy,Rural,12
+Japan,Italy,Rural,13
+Germany,South Korea,Urban,14
+Japan,Italy,Suburban,15
+Germany,Italy,Suburban,16
+South Korea,Italy,Suburban,17
+USA,Italy,Suburban,18
+South Korea,South Korea,Suburban,19
+South Korea,Japan,Rural,20
+South Korea,Japan,Urban,21
+Japan,Germany,Suburban,22
+Japan,USA,Suburban,23
+USA,Germany,Rural,24
+USA,Japan,Rural,25
+USA,USA,Rural,26
+South Korea,USA,Suburban,27
+Japan,USA,Urban,28
+USA,South Korea,Urban,29
+Germany,Germany,Rural,30
+South Korea,USA,Urban,31
+South Korea,South Korea,Rural,32
+Germany,Japan,Urban,33
+USA,USA,Suburban,34
+USA,USA,Urban,35
+Germany,USA,Suburban,36
+USA,Germany,Suburban,37
+Germany,Italy,Urban,38
+Japan,USA,Rural,39
+Japan,Japan,Urban,40
+South Korea,Germany,Rural,41
+Germany,USA,Urban,42
+Germany,USA,Rural,43
+Germany,South Korea,Rural,44
+Japan,South Korea,Rural,45
+Germany,South Korea,Suburban,46
+South Korea,Italy,Rural,47
+Germany,Germany,Urban,48
+Germany,Japan,Suburban,49
+South Korea,Germany,Urban,50
+South Korea,South Korea,Urban,51
+Japan,Japan,Suburban,52
+South Korea,Japan,Suburban,53
+Japan,South Korea,Urban,54
+USA,South Korea,Suburban,55
+Japan,South Korea,Suburban,56
+USA,Italy,Rural,57
+Japan,Germany,Rural,58
+South Korea,Germany,Suburban,59
+South Korea,USA,Rural,60
